@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="topics_pkg" type="wall_avoidance.py" name="wall_avoidance_node" output="screen"/>
+</launch>
