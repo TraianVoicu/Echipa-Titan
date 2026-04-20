@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/traian/catkin_ws/devel/.private/topics_pkg/setup.sh

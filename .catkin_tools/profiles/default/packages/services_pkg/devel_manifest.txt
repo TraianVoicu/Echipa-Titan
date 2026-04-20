@@ -1,0 +1,4 @@
+services_pkg
+/home/traian/catkin_ws/devel/.private/services_pkg/lib/pkgconfig/services_pkg.pc /home/traian/catkin_ws/devel/lib/pkgconfig/services_pkg.pc
+/home/traian/catkin_ws/devel/.private/services_pkg/share/services_pkg/cmake/services_pkgConfig.cmake /home/traian/catkin_ws/devel/share/services_pkg/cmake/services_pkgConfig.cmake
+/home/traian/catkin_ws/devel/.private/services_pkg/share/services_pkg/cmake/services_pkgConfig-version.cmake /home/traian/catkin_ws/devel/share/services_pkg/cmake/services_pkgConfig-version.cmake

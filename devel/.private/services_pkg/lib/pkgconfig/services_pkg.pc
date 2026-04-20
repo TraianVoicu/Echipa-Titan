@@ -1,0 +1,8 @@
+prefix=/home/traian/catkin_ws/devel/.private/services_pkg
+
+Name: services_pkg
+Description: Description of services_pkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

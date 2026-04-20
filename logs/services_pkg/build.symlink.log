@@ -1,0 +1,3 @@
+Symlinking /home/traian/catkin_ws/devel/lib/pkgconfig/services_pkg.pc
+Symlinking /home/traian/catkin_ws/devel/share/services_pkg/cmake/services_pkgConfig.cmake
+Symlinking /home/traian/catkin_ws/devel/share/services_pkg/cmake/services_pkgConfig-version.cmake

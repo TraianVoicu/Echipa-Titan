@@ -1,0 +1,1 @@
+/home/traian/catkin_ws/devel/.private/services_pkg/share/services_pkg/cmake/services_pkgConfig-version.cmake
