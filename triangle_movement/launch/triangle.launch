@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="triangle_movement" type="triangle_server.py" name="triangle_server" output="screen"/>
+  <node pkg="triangle_movement" type="triangle_client.py" name="triangle_client" output="screen" launch-prefix="bash -c 'sleep 2; $0 $@'"/>
+</launch>
